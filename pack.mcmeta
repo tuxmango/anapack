@@ -1,9 +1,0 @@
-{
-  "pack": {
-    "pack_format": 22,
-    "supported_formats": [22, 10000],
-    "description": "Adds §3Ore Outlines§f! Made by §lr0k3tkutt3r§r on §a§lModrinth§r§f.",
-    "min_format": [22, 0],
-    "max_format": [10000, 0]
-  }
-}
